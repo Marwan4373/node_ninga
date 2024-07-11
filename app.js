@@ -14,3 +14,8 @@
 console.log(__dirname);
 console.log(__filename);
 
+let firsName = "marwan";
+let lastNAmePerson = "hassan";
+console.log(firsName) ;
+console.log(lastNAmePerson) ;
+
